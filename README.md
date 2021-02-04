@@ -1,10 +1,10 @@
-# Netflix shows Dataset Analysis
+# Netflix Shows Dataset Analysis
 
 Netflix Shows Dataset Analysis by making use of Hadoop concepts like MapReduce Framework, Hive, Pig, Map Reduce Design Patterns
 
 ## Following analysis are performed:
 
-### Analysis 01 - MongoDB MRFunctions
+** Analysis 01 - MongoDB MRFunctions **
 To Count Number of Movies and TV shows by the year they were released
 
 ### Analysis 02 - MongoDB Custom Indexes
